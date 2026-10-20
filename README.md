@@ -2,7 +2,7 @@
 
 🎓 **CSE (AI & ML) Undergrad @ Siliguri Institute of Technology**  
 💼 **ex-Web Developer Intern @ Dealhub Solutions Pvt. Ltd.**  
-🚀 **Collaborator @[Oppia](https://github.com/oppia/oppia)**
+🚀 **Open Source Contributor @[Oppia](https://github.com/oppia/oppia)**
 
 ## 👨‍💻 About Me
 
