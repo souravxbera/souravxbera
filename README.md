@@ -14,7 +14,7 @@ Currently focused on AI/ML engineering, agentic AI, and product-driven developme
 
 * 🎥 [**YouTube RAG Chatbot**](https://youtube-rag-chatbots.streamlit.app/) — AI-powered Q&A from YouTube transcripts
 * 💳 [**Credit Card Approval Predictor**](https://credit-card-approval-predictor.streamlit.app/) — ML-based financial approval prediction system
-* ⚡ [**InstaShare**](https://www.instashare.me/) — Anonymous real-time chat & code sharing
+* ⚡ [**InstaShare**](https://instashare-ruby.vercel.app/) — Anonymous real-time chat & code sharing
 * 🌍 [**Azure Translation Demo**](https://azure-translation-demo.vercel.app/) — FastAPI app using Azure Translator API
 * 🎬 [**Movie Recommendation System**](https://movie-recommendation-pro.streamlit.app/) — NLP-powered personalized movie recommendations
 * ☁️ [**CloudPoint**](https://my-weather-projects.netlify.app/) — Real-time weather tracking web application
